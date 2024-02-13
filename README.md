@@ -1,3 +1,5 @@
+itch.io Link: https://suspicious-games.itch.io/saligia-prototyp
+
 # SaligiaPrototype
 Buff System based on --> https://www.jonathanyu.xyz/2016/12/30/buff-system-with-scriptable-objects-for-unity/
 
